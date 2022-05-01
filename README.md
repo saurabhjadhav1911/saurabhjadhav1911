@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Computer Graphics, Computational Geometry, Image Processing, Hardware prototyping, Scripting & Automation**
 
-- 📫 How to reach me **saurabh@teson.in**
+- 📫 How to reach me **saurabhjadhav1911@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
